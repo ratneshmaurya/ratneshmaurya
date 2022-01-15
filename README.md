@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ratneshmaurya2001@gmail.com**
 
-- ⚡ Fun fact **I am still learning like you.**
+- ⚡ Fun fact **- I am still learning like you ☺️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
