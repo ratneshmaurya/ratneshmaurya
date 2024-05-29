@@ -1,5 +1,5 @@
 <h1 align="center">Hi friends 👋, I'm Ratnesh Maurya</h1>
-<h3 align="center">I'm an Indian Undergraduate Student, currently pursuing B.Tech in Computer Engineering from IIITKOTA.</h3>
+<h3 align="center">I'm an Indian Undergraduate Student, completed B.Tech in Computer Engineering from IIITKOTA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratneshmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="ratneshmaurya" /> </p>
 
